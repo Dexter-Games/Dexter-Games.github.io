@@ -1,4 +1,5 @@
 ## List of Tutorials
+
 | Tutorials | Link |
 |-----------| ---- |
 | [Snake Game Pt 1](/Tutorials/Snake%20Game%20Starter) | [/Tutorials/Snake%20Game%20Starter](/Tutorials/Snake%20Game%20Starter) |
