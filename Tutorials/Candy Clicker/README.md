@@ -1,7 +1,7 @@
 # Candy Clicker Tutorial
 We are going to make a clicker game, which is a simple game where you click on an object to increase some score, money, or other number. One example of an early clicker game is [Cookie Clicker.](https://orteil.dashnet.org/cookieclicker/) Our clicker game is going to be much simpler. We will show a piece of candy and, when clicked, raise a score value. Of course, you can always add more features as you learn more!
 
-![Candy Clicker](candy_clicker.gif)
+![Cookie Clicker](cookie.gif)
 
 ## Getting Started
 The first thing you need to do is **create a new replit project** using the **p5.js template**. You should see the following code:
