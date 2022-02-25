@@ -171,6 +171,14 @@ function mousePressed(){
 
 Now we will use that distance to determine whether the score should be increased. Experiment around with a few numbers, but I discovered that requiring the distance to be less than 40 pixels worked well for me.
 
+```js
+function mousePressed(){
+    var d = dist(candy.x, candy.y, mouseX, mouseY)
+    if(d < 40) {
+      score = score + 1
+    }
+}
+```
 
 ## Conclusion
 That's it! You have a basic clicker game created! Next tutorial we will make the game more playable for phones and other mobile devices. For now, congratualations on getting this far!
