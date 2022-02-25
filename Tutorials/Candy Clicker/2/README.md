@@ -25,3 +25,8 @@ html, body
   overflow: hidden;
 }
 ```
+
+## Adding the P5.Play library
+```html
+<script src="https://raw.githubusercontent.com/jeremyglebe/p5.play/master/lib/p5.play.js"></script>
+```
